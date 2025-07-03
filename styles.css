@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+
+.favorite-color{
+	color: green;
+	background-color: black;
+	padding: 10px;
+	font-size: 1.2rem;
+	font-weight: 600;
+}
